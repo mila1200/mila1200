@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hej!
+
+Detta konto används i samband med studier på Mittuniversitetets program, webbutveckling.
+
+//Mikael Larsson
 
 <!--
 **mila1200/mila1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
